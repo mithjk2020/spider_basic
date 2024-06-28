@@ -1,4 +1,4 @@
-#short note on waiting time and turn aroun time
+#short note on waiting time and turn around time
 
 All processes do no get executed correctly during the incoming because some already present process might be going on at that time. The current process has to wait for it to to finish so that it can start getting executed. This brief period of time where a process waits until a process gets over so that it can start its execution is called waiting time.
 
